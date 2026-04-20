@@ -1,0 +1,8 @@
+"appium:automationName": "UiAutomator2",
+  "appium:platformName": "Android",
+  "appium:deviceName": "emulator-5554",
+  "appium:platformVersion": "14",
+  "appium:settings[enableMultiWindows]": true,
+  "appium:wdaLocalPort": "8100",
+  "appium:settings[allowInvisibleElements]": true,
+  "appium:connectHardwareKeyboard": true
